@@ -1,0 +1,47 @@
+<html>
+
+<head>
+<title></title>
+</head>
+
+<body>
+<div align="center"><center>
+
+<table border="0" width="90%" height="90%"  cellspacing="5>
+  <tr>
+    <td width="100%"><img src="http://users3.valiant.co.uk/vallogo.gif" ></td>
+  </tr>
+  <tr>
+    <td width="100%"><p align="center"><font face="Arial" color="#FF0000"><strong>Setting up
+    your Web and Email Fowarding</strong></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><small><font face="Arial"><strong><font face="Arial" color="#FF0000">Logging In</font></strong></font></small><p><font
+    face="Arial"><small>Log in to your control panel,  <font face="Arial" color="#FF0000"><!--#echo var="HTTP_HOST" -->/cpanel</font></small><br>
+    <small>using the access details emailed to you when you placed your order.<br>
+    </small></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><small><font face="Arial"><strong><font face="Arial" color="#FF0000">Activating your eMail Fowarding</strong></font></small><p><small><font
+    face="Arial">In the Email Section, click on <b>Forwarders</b><br>
+    Click on <b>Add Forwarder</b><br>
+    In the left box enter the name of the mail account you created previously, in the right<br>
+    box enter the email address where you want your mail forwarded to.<br>
+    Click on <b>Add Forwarder</b><br>
+    Click on <b>[ Go Back ]</b> until you are back to the main cPanel menu<br>
+    </font></small></td>
+  </tr>
+  <tr>
+    <td width="100%"><small><font face="Arial"><strong><font face="Arial" color="#FF0000">Activating Your Web Forwarding</strong></font></small><p><small><font
+    face="Arial">Click on <b>Redirects</b> in the <b>Site Management Sub Menu</b><br>
+    Enter the url where your website is hosted in the right hand side box. <br>
+    Click on <b>Add</b>
+    <br><br>
+    <font face="Arial"><font face="Arial" color="#FF0000">Congratulations ! </font>Your Web & Email Forwarding is now active, you may need to click your<br> browsers refresh button a few times to see your web site,<br>you can return to your cPanel at any time to modify your forwarding<br><br>
+    Note: Some other features displayed on your cPanel menu may not be available, if you need<br>
+    help scroll down to the bottom of the cPanel menu and click on Documentation </font></small></td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>

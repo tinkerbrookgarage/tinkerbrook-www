@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<description>For all your quality car and small van repairs and services come along to Tinker Brook Garage Ltd situated in the heart of Accrington.
+</description>
+	<keywords>MOT Testing Accrington,Car Servicing Accrington,Car Repairs Accrington,Cambelt Changes Accrington,Small Van Repairs Accrington,Auto Electrics Accrington,Tyre Fitting Accrington,Tyre Sales Accrington,Tinker Brook Garage,Garage Accrington,</keywords>
+	<mainsite>HASH(0x8975f28)</mainsite>
+	<shadowed>False</shadowed>
+	<layout>1</layout>
+	<theme>car-performance3</theme>
+	<style>1</style>
+	<menu>Home,index.html|Contact Us,contactus.html</menu>
+	<category></category>
+	<subcategory></subcategory>
+	<directorydesc></directorydesc>
+	<html>
+		<name>index.html</name>
+		<name>contactus.html</name>
+	</html>
+	<images>
+		<name>logo.gif</name>
+		<name>sample.jpg</name>
+		<name>banner1.jpg</name>
+		<name>banner2.jpg</name>
+		<name>banner3.jpg</name>
+		<name>banner4.jpg</name>
+		<name>banner5.jpg</name>
+		<name>banner-left1.jpg</name>
+		<name>banner-left2.jpg</name>
+		<name>banner-left3.jpg</name>
+		<name>banner-left4.jpg</name>
+		<name>banner-left5.jpg</name>
+		<name>bottom-back1.jpg</name>
+		<name>bottom-back2.jpg</name>
+		<name>bottom-back3.jpg</name>
+		<name>bottom-back4.jpg</name>
+		<name>bottom-back5.jpg</name>
+		<name>head-block1.jpg</name>
+		<name>head-block2.jpg</name>
+		<name>head-block3.jpg</name>
+		<name>head-block4.jpg</name>
+		<name>head-block5.jpg</name>
+		<name>menu-back1.jpg</name>
+		<name>menu-back2.jpg</name>
+		<name>menu-back3.jpg</name>
+		<name>menu-back4.jpg</name>
+		<name>menu-back5.jpg</name>
+		<name>spacer.gif</name>
+		<name>gearstick_RSSize(133x200).jpg</name></images>
+	<includes>
+		<name>style1.css</name>
+		<name>style2.css</name>
+		<name>style3.css</name>
+		<name>style4.css</name>
+		<name>style5.css</name>
+	</includes>
+	<themenails>
+		<name>theme.jpg</name>
+		<name>style1.jpg</name>
+		<name>style2.jpg</name>
+		<name>style3.jpg</name>
+		<name>style4.jpg</name>
+		<name>style5.jpg</name>
+	</themenails>
+	<layoutnails>
+		<name>content1.gif</name>
+		<name>content2.gif</name>
+		<name>content3.gif</name>
+		<name>content4.gif</name>
+		<name>content5.gif</name>
+		<name>content6.gif</name>
+		<name>content7.gif</name>
+		<name>content8.gif</name>
+		<name>content9.gif</name>
+		<name>content10.gif</name>
+		<name>content11.gif</name>
+		<name>content12.gif</name>
+		<name>content13.gif</name>
+		<name>content14.gif</name>
+		<name>content15.gif</name>
+		<name>content16.gif</name>
+	</layoutnails>
+	<editclass>rsedit</editclass>
+	<stylesheetstart>&lt;!-- StyleSheetStart--&gt;</stylesheetstart>
+	<stylesheetcode>&lt;link href="includes/styleREPLACE.css" rel="stylesheet" type="text/css"&gt;</stylesheetcode>
+	<stylesheetend>&lt;!-- StyleSheetEnd--&gt;</stylesheetend>
+	<menustart>&lt;!--LinkVisibleTxtStart--&gt;</menustart>
+	<menucode>&lt;tr class="menu-table"&gt;&lt;td height="23" align="center"&gt;&lt;a href="REPLACE" class="menu-link"&gt;REPLACE&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;</menucode>
+	<menuend>&lt;!--LinkVisibleTxtEnd--&gt;</menuend>
+	<mainsitestart>&lt;!--MainSiteStart--&gt;</mainsitestart>
+	<mainsitecode>&lt;a href="http://REPLACE" class="menu-link"&gt;Main Site&lt;/a&gt;</mainsitecode>
+	<mainsiteend>&lt;!--MainSiteEnd--&gt;</mainsiteend>
+	<titlestart>&lt;TITLE&gt;</titlestart>
+	<titleend>&lt;/TITLE&gt;</titleend>
+	<hiddenlayerstart>&lt;!--HLayerStart--&gt;</hiddenlayerstart>
+	<hiddenlayerend>&lt;!--HLayerEnd--&gt;</hiddenlayerend>
+	<metakeywordsstart>&lt;META content="</metakeywordsstart>
+	<metakeywordsend>" name=keywords&gt;</metakeywordsend>
+	<metadescriptionstart>&lt;META content="</metadescriptionstart>
+	<metadescriptionend>" name=description&gt;</metadescriptionend>
+	<bodytextstart>&lt;!--BodyDataStart--&gt;</bodytextstart>
+	<bodytextend>&lt;!--BodyDataEnd--&gt;</bodytextend>
+	<syncversion>29/06/2007 14:27:55</syncversion></root>
